@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Shivam122gupta
-- 👀 I’m interested in coding 
 - 🌱 I’m currently learning c programming 
-- 💞️ I’m looking to collaborate on open source 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me ...22shivamgupta05@gmail.com
+- ⚡ Fun fact: ... I'm currently studying Btech computer science 
 
 <!---
 Shivam122gupta/Shivam122gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
