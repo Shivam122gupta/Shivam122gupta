@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shivam122gupta
-- 🌱 I’m currently learning c programming 
+- 🌱 I’m currently learning DataScience
 - 📫 How to reach me ...22shivamgupta05@gmail.com
 - ⚡ Fun fact: ... I'm currently studying Btech computer science 
 
