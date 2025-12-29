@@ -1,4 +1,4 @@
-# 💫 About Me: SHIVAM GUPTA
+#  SHIVAM GUPTA
 💻 B.Tech Student <br>🤖 Exploring Machine Learning & AI Projects<br>📂 Sharing my journey through projects and experiments<br>🐍 Python Enthusiast
 
 
