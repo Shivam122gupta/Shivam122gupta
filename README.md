@@ -2,8 +2,8 @@
 
 B.Tech Computer Science Engineering student at Babu Banarasi Das University, Lucknow.
 
-Interested in **Data Science, Machine Learning, AI and Backend Development**.
+Interested in  Machine Learning , AI Engineering  and Backend Development.
 
 I build practical projects to learn, experiment and solve real-world problems.
 
-Currently learning **DSA, Machine Learning, FastAPI, LLMs and RAG**.
+Currently learning DSA.
